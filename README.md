@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominic Lee</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h3 align="center">A passionate software developer from Malaysia</h3>
 
 - 🌱 I’m currently learning **Laravel Framework**
 
