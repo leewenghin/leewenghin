@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominic Lee</h1>
 <h3 align="center">A passionate software developer from Malaysia</h3>
 
-- 🌱 I’m currently learning **Laravel Framework**
+- 🌱 I’m currently learning **everything**
 
 - 👨‍💻 All of my projects are available at [https://dominic.loveslife.biz/](https://dominic.loveslife.biz/)
 
