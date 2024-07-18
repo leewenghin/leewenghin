@@ -46,5 +46,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leewenghin&show_icons=true&locale=en&layout=compact" alt="leewenghin" /></p>
