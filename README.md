@@ -31,7 +31,13 @@
 - [![React][React.js]][React-url]
 - [![Material UI][MaterialUI.com]][MaterialUI-url]
 - [![Redux][Redux.com]][Redux-url]
-- [![React Router][Reactrouter.com]][Reactrouter-url]</div>
+- [![React Router][Reactrouter.com]][Reactrouter-url]
+</div>
+
+- [![React][React.js]][React-url]
+- [![Material UI][MaterialUI.com]][MaterialUI-url]
+- [![Redux][Redux.com]][Redux-url]
+- [![React Router][Reactrouter.com]][Reactrouter-url]
 
 ###
 
