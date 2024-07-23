@@ -27,12 +27,12 @@
 
 ###
 
-<div align="left">
+<p>
 [![React][React.js]][React-url]
 [![Material UI][MaterialUI.com]][MaterialUI-url]
 [![Redux][Redux.com]][Redux-url]
 [![React Router][Reactrouter.com]][Reactrouter-url]
-</div>
+</p>
 
 - [![React][React.js]][React-url]
 - [![Material UI][MaterialUI.com]][MaterialUI-url]
