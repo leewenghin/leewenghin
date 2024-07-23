@@ -29,8 +29,6 @@
 
 [![React][React.js]][React-url]
 [![Material UI][MaterialUI.com]][MaterialUI-url]
-[![][MaterialUI.com]][MaterialUI-url]
-[![Material UI][MaterialUI.com]][MaterialUI-url]
 [![Redux][Redux.com]][Redux-url]
 [![React Router][Reactrouter.com]][Reactrouter-url]
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
