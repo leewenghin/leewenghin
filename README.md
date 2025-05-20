@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Dominic from Malaysia<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning everything 🤣<br>- 📫 How to reach me dominicleewenghin@gmail.com<br>- 👨‍💻 All of my projects are available at https://dominic.loveslife.biz/</p>
+<p align="left">I'm Dominic from Malaysia<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning everything 🤣<br>- 📫 How to reach me dominicleewenghin@gmail.com<br>- 👨‍💻 All of my projects are available at [https://dominic.loveslife.biz](https://dominiclwh.vercel.app/)/</p>
 
 ###
 
